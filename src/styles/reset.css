@@ -1,0 +1,16 @@
+:root {
+	--about-header-color: #ff3e00;
+	--contact-header-color: #047700;
+}
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	width: 100vw;
+	height: 100vh;
+	background: #d4d4ff;
+}
